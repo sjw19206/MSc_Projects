@@ -1,0 +1,5 @@
+1. Convolutional Neural Network Codes : 'CNN' Folder
+2. Convolutional Auto Encoder codes : 'Convolutional Auto Encoder' Folder
+3. Image pre-processing and display images : 'DataSetup' Folder
+4. Multi-layer perceptron codes : 'MLP' Folder
+5. ResNet50 codes: 'ResNet50' Folder
